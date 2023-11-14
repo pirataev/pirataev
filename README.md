@@ -1,6 +1,6 @@
 <h1 align="center"> Привет 👋, я Пирмурат))) </h1>
 <h3 align="center"> Начинающий разработчик из Туркменистана</h3>
-<img align="left" alt="Coding" width="950" src="https://img-s1.onedio.com/id-64c37f9a46cb778e7f05122f/rev-0/w-600/h-337/f-gif/s-7416ccb62d8c31554bae64f7444e3134c5963440.gif">
+<img align="left" alt="Coding" width="550" src="https://img-s1.onedio.com/id-64c37f9a46cb778e7f05122f/rev-0/w-600/h-337/f-gif/s-7416ccb62d8c31554bae64f7444e3134c5963440.gif">
 
 
 
