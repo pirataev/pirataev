@@ -1,5 +1,5 @@
 <h1 align="center"> Привет 👋, я Пирата</h1>
-<h3 align="center"> Увлеченный фронтенд-разработчик из Туркменистана</h3>
+<h3 align="center"> Увлеченный разработчик из Туркменистана</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5c4ab32a1baf811bda2acf63ba24845d31ac69ad3f650d90db602a0c43a7b1be/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f313430302f62653833323932323339313439312e353863323535353866306665372e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p1rataaa&label=Profile%20views&color=0e75b6&style=flat" alt="p1rataaa" /> </p>
